@@ -120,8 +120,7 @@ function Header({ navigate, route }) {
         <span className="brand-mark">🌱</span>
         <span>
           Sierra Leone Seed Tracker
-          <small>Ministry-ready seed intelligence platform</small>
-        </span>
+          </span>
       </button>
 
       <nav className="nav-links" aria-label="Primary navigation">
